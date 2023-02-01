@@ -1,1 +1,1 @@
-# django-api
+# go-study
