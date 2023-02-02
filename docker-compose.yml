@@ -5,3 +5,5 @@ services:
     volumes: 
       - ./:/go/src
     tty: true
+    ports:
+      - "3000:3000"

@@ -15,3 +15,4 @@ docker-compose exec golang sh
 ```
 https://github.com/gin-gonic/gin
 ```
+curl
